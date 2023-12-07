@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "branded_things",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "aldrincl_root",
+    "password": "root@0856",
+    "database": "aldrincl_zaloris",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
